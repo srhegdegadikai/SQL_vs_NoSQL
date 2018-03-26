@@ -1,0 +1,10 @@
+# loads all the packages
+library(tidyverse)
+library(elastic)
+library(lubridate)
+library(mongolite)
+library(jsonlite)
+library(RMySQL)
+library(sofa)
+library(microbenchmark)
+#library(nodbi)
